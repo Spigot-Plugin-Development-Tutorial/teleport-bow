@@ -1,0 +1,10 @@
+name: TeleportBow
+version: '${project.version}'
+main: me.kodysimpson.teleportbow.TeleportBow
+api-version: 1.18
+authors: [ Illuminatiiiiii ]
+description: A magical bow plugin that teleports you and stuff
+website: https://youtube.com/KodySimpson
+commands:
+  givebow:
+    description: Give yourself or someone else a teleport bow

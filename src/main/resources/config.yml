@@ -1,0 +1,5 @@
+give-on-join: true
+
+bow-name: '&f[&eTeleport&aBow&f]'
+bow-description: '&6Shoot your shot and teleport anywhere.'
+teleported-message: '&aSwoosh!'
